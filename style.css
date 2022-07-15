@@ -59,3 +59,14 @@
 .get{
     color:rgb(82, 77, 77);
 }
+.copy{
+    text-align: center;
+}
+.link{
+    text-decoration: none;
+    color: #fceae8;
+    
+}
+.link:hover{
+    color: black;
+}
