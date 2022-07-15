@@ -1,5 +1,6 @@
 .container{
     margin-bottom: 100px;
+    margin-top: 100px;
 }
 .orenge-bg{
     background-color: #fceae8;
@@ -18,4 +19,43 @@
 }
 .price{
     color: hotpink;
+}
+.cat1,.cat2,.cat3{
+    padding:10px 30px;
+}
+.cat1{background-color: orangered;
+       border-radius: 5px;}
+.cat2{background-color: rgb(179, 5, 92);
+       border-radius: 5px;}
+.cat3{background-color: blue;
+    border-radius: 5px;}
+.cetagorie h1{
+    color: white;
+}
+.cetagorie img{
+    width: 100px;
+}
+.cat1:hover{
+    background-color: hotpink;
+}
+.cat2:hover{
+    background-color: greenyellow;
+}
+.cat3:hover{
+    background-color: rgb(0, 255, 128);
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#contact{
+    height: 300px;
+}
+.get{
+    color:rgb(82, 77, 77);
 }
