@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 100px;
+}
+.orenge-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.mi-button{
+    background-color: rgb(245, 9, 87);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 9px 25px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: hotpink;
+}
